@@ -1,0 +1,336 @@
+.name{
+    text-align: center;
+    color: #074173;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 50px;
+    font-size: 50px;
+}
+span{
+    color: #803D3B;
+}
+
+body{
+    background-color: #F2EFE5;
+}
+.intro{
+    text-align: center;
+    padding-top: 50px;;
+    font-size: large;
+
+}
+
+#profile{
+    display: inline;
+    padding-right: 40px;
+
+}
+#dob{
+    display: inline;
+    padding-right: 40px;
+    
+}
+#connect{
+    display: inline;
+}
+#linkedin{
+    
+    color: #803D3B;
+}
+#linked{
+    display: inline;
+    padding-right: 40px;
+}
+h3{
+    color:black;
+    
+}
+#profilephoto{
+    display:block;
+    width: 300px;
+    border-radius: 50%;
+    height: 300px;
+    position:relative;
+    left: 40%;
+    top:50px;
+    border: 5px solid #B99470;
+    
+}
+#block1{
+    position: relative;
+   text-align: center;
+    top: 100px;
+    font-size: large;
+}
+#block1>h2{
+    color:#803D3B ;
+}
+
+#qualitieslogo{
+    width: 150px;
+    float: left;
+    padding-right: 50px;
+}
+#quality{
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    left: 250px;
+    
+}
+#quality>h2{
+    margin: 0px;
+    margin-bottom: 20px;
+    color: #803D3B;
+}
+#quality>p{
+    margin: 7px;
+}
+#skillslogo{
+    width: 150px;
+    float: left;
+    padding-right: 50px;
+}
+#skills{
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    left: 250px; 
+}
+#skills>h2{
+    margin: 0px;
+    margin-bottom: 20px;
+    color: #803D3B;
+}
+#skills>p{
+    margin: 7px;
+}
+.block2{
+    display: inline-block;
+    position: relative;
+    top: 150px;
+    left: 8%;
+    font-size: large;
+}
+.block3{
+    text-align: center;
+    position: relative;
+    top: 180px;
+    font-size: large;
+}
+.block3>h2{
+    color: #803D3B;
+}
+.block4{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    font-size: large;
+}
+.block4>h2{
+    color: #803D3B;
+}
+.links{
+    color: black;
+}
+#projectslogo{
+    width: 150px;
+    float: left;
+    padding-right: 50px;
+}
+.block5{
+    
+    position: relative;
+    top: 250px;
+    font-size: large;
+}
+#certificateslogo{
+    display: block;
+    position: relative;
+    width: 150px;
+    left: 40%; 
+}
+#certificates{
+    display: inline-block;
+    width: 400px;
+    position: relative;
+    left: 25%;
+}
+#certificates>h2{
+    position: absolute;
+    left: 44%;
+}
+#projects{
+    display: inline-block;
+    width: 400px;
+    position: absolute;
+    left: 55%;
+}
+#projects>h2{
+    position: relative;
+    top: 149px;
+    left: -43%;
+}
+#Certificate_title{
+    text-align: center;
+    color: #074173;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 50px;
+    font-size: 50px;
+}
+.screenshots{
+    width: 50%;
+    border: 5px solid #803D3B;
+}
+#certblock{
+    text-align: center;
+}
+.cert1{
+    position: relative;
+    top: 80px;
+    left: 0%;
+    padding-bottom: 30px;
+}
+.cert1>h2{
+    text-align:left
+}
+#certblock>h2{
+    padding-top: 60px;
+    color: #803D3B;
+    font-size: 30px;
+}
+footer{
+    position: relative;
+    clear: both;
+    top: 500px;
+}
+#project-title{
+    text-align: center;
+    color: #074173;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 50px;
+    font-size: 50px;
+}
+#haar{
+    width: 400px;
+    height: 300px;
+    border: 5px solid #803D3B;
+}
+#firstproject{
+    position: relative;
+    left: 90px;
+    top: 70px;
+}
+.main-projects>h2{
+    text-align: center;
+    position: relative;
+    top: 80px;
+    color: #803D3B;
+    font-size: 30px;
+}
+.main-projects>p{
+    text-align: center;
+    position: relative;
+    top: 90px;
+    font-size: large;
+}
+.main-projects>a{
+    text-align: center;
+    position: relative;
+    top: 90px;
+    left: 43%;
+    font-size: large;
+    color:#803D3B;
+}
+#secondproject{
+    position: relative;
+    left: 90px;
+    top: 150px;
+}
+.main-projects>#second-title{
+    position: relative;
+    top: 160px;
+}
+.main-projects>#second-para{
+    position: relative;
+    top: 170px;
+}
+.main-projects>#second-link{
+    position: relative;
+    top: 170px;
+    padding-bottom: 50px;
+}
+.centercard{
+    text-align: center;
+    color: #074173;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 50px;
+    font-size: 25px;
+}
+#contact_logo{
+    width: 180px;
+}
+#connect-link{
+    color: #803D3B;
+}
+footer{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#thanks-logo{
+    padding-top: 30px;
+    width: 180px;
+}
+@media (max-width:480px){
+    body{
+        background-color: #074173;
+    }
+    .page{
+        text-align: center;
+        position: relative;
+        left: 25%;
+    }
+    #profilephoto{
+        position: relative;
+        left: 8.5%;
+    }
+    .block2{
+        position: relative;
+        left: -60%;
+        display: block;
+        width: 50px;
+    }
+    #qualitieslogo{
+        padding-right: 0px;
+    }
+    #skillslogo{
+        padding-right: 0px;
+    }
+    #quality{
+        padding-bottom: 50px;
+        position: relative;
+    }
+   
+    .block5{
+        position: relative;
+        left: -40%;
+        
+    }
+    #projects{
+        position: relative;
+        padding-top: 30%;
+    }
+    #projectslogo{
+        padding-right: 0px;
+        position: relative;
+        left: 50px;
+    }
+    #projects>h2{
+        position: relative;
+        left: -40%;
+    }
+}
